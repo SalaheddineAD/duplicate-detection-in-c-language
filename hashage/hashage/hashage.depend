@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1576873658 source:c:\users\john\desktop\thisproj\hashage\hashage\main.c
+	"hashtable.h"
+
+1576874843 c:\users\john\desktop\thisproj\hashage\hashage\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+
+1576873700 source:c:\users\john\desktop\thisproj\hashage\hashage\hashtable.c
+	"hashtable.h"
+
+1576881930 source:d:\thisproj\hashage\hashage\hashtable.c
+	"hashtable.h"
+
+1576882966 d:\thisproj\hashage\hashage\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+	<unistd.h>
+
+1576881256 source:d:\thisproj\hashage\hashage\main.c
+	"hashtable.h"
+
+1576881316 source:d:\thisproj\hashage\hashage\jaro.c
+	"hashtable.h"
+
+1576881316 source:d:\thisproj\hashage\hashage\levenshtein.c
+	"hashtable.h"
+
+1576881316 source:d:\thisproj\hashage\hashage\soundex.c
+	"hashtable.h"
+
+1578003319 source:c:\users\moham\desktop\last edition\hashage\hashage\hashtable.c
+	"hashtable.h"
+
+1578012640 c:\users\moham\desktop\last edition\hashage\hashage\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+	<unistd.h>
+
+1576881316 source:c:\users\moham\desktop\last edition\hashage\hashage\jaro.c
+	"hashtable.h"
+
+1576881316 source:c:\users\moham\desktop\last edition\hashage\hashage\levenshtein.c
+	"hashtable.h"
+
+1578012248 source:c:\users\moham\desktop\last edition\hashage\hashage\main.c
+	"hashtable.h"
+	<time.h>
+
+1576881316 source:c:\users\moham\desktop\last edition\hashage\hashage\soundex.c
+	"hashtable.h"
+
+1577990179 source:c:\users\moham\desktop\last edition\hashage\hashage\ngram.c
+	"hashtable.h"
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,500 @@
+Pv	av	rv	sv	ov	nv	sv	
+v	Tv	ov	dv	dv	
+v	Lv	av	rv	sv	ov	nv	
+v	Kv	ev	lv	lv	yv	
+v	Tv	av	tv	ev	
+v	Wv	iv	lv	lv	iv	av	mv	sv	ov	nv	
+v	Cv	ov	nv	rv	av	dv	
+v	Bv	ov	ov	kv	ev	rv	
+v	Rv	ov	bv	ev	rv	tv	sv	ov	nv	
+v	Sv	nv	yv	dv	ev	rv	
+v	Kv	av	uv	fv	mv	av	nv	
+v	Fv	lv	ov	yv	dv	
+v	Ev	lv	lv	iv	ov	tv	tv	
+v	Fv	rv	ev	dv	ev	rv	iv	cv	kv	
+v	Gv	av	tv	ev	sv	
+v	Jv	av	cv	ov	bv	sv	ov	nv	
+v	Wv	ov	ov	dv	wv	av	rv	dv	
+v	Mv	ov	rv	rv	iv	sv	
+v	Pv	ev	tv	ev	rv	sv	
+v	Fv	av	rv	lv	ev	yv	
+v	Gv	av	rv	nv	ev	rv	
+v	Tv	uv	rv	nv	ev	rv	
+v	Rv	ev	iv	dv	
+v	Mv	av	xv	wv	ev	lv	lv	
+v	Mv	av	yv	sv	
+v	Vv	av	lv	ev	nv	cv	iv	av	
+v	Sv	tv	av	nv	tv	ov	nv	
+v	Sv	nv	ov	wv	
+v	Sv	hv	av	rv	pv	
+v	Av	nv	dv	rv	av	dv	ev	
+v	Mv	iv	rv	av	nv	dv	av	
+v	Sv	pv	ev	nv	cv	ev	
+v	Hv	ov	lv	mv	ev	sv	
+v	Gv	av	lv	vv	av	nv	
+v	Sv	iv	nv	gv	lv	ev	tv	ov	nv	
+v	Ev	sv	tv	rv	av	dv	av	
+v	Tv	ev	rv	rv	yv	
+v	Gv	av	lv	lv	ev	gv	ov	sv	
+v	Hv	ev	rv	nv	av	nv	dv	ev	zv	
+v	Mv	cv	iv	nv	tv	ov	sv	hv	
+v	Sv	hv	ev	pv	hv	ev	rv	dv	
+v	Mv	cv	nv	ev	iv	lv	
+v	Hv	ev	sv	sv	
+v	Bv	av	lv	dv	wv	iv	nv	
+v	Ev	lv	lv	iv	sv	ov	nv	
+v	Rv	iv	gv	gv	sv	
+v	Rv	ov	lv	lv	iv	nv	sv	
+v	Cv	av	mv	pv	bv	ev	lv	lv	
+v	Cv	av	rv	sv	ov	nv	
+v	Dv	ev	av	nv	
+v	Gv	uv	ev	rv	rv	ev	rv	ov	
+v	Kv	rv	uv	ev	gv	ev	rv	
+v	Cv	uv	ev	vv	av	sv	
+v	Bv	rv	yv	av	nv	
+v	Lv	ev	vv	iv	nv	ev	
+v	Mv	av	cv	iv	av	sv	
+v	Hv	av	nv	sv	ov	nv	
+v	Fv	ov	lv	ev	yv	
+v	Cv	hv	av	rv	lv	ev	sv	
+v	Ev	av	tv	ov	nv	
+v	Mv	cv	iv	nv	tv	yv	rv	ev	
+v	Iv	nv	gv	rv	av	mv	
+v	Dv	av	wv	sv	ov	nv	
+v	Pv	av	rv	rv	iv	sv	hv	
+v	Wv	ov	lv	fv	ev	
+v	Hv	ov	wv	ev	
+v	Sv	tv	ov	uv	tv	
+v	Lv	ev	
+v	Gv	uv	zv	mv	av	nv	
+v	Bv	rv	ov	ov	kv	sv	
+v	Fv	av	uv	lv	kv	nv	ev	rv	
+v	Mv	av	cv	kv	
+v	Cv	ov	nv	nv	ev	rv	
+v	Hv	av	wv	kv	iv	nv	sv	
+v	Dv	iv	lv	lv	ov	nv	
+v	Sv	tv	ev	vv	ev	nv	sv	ov	nv	
+v	Sv	iv	mv	ov	nv	
+v	Sv	iv	nv	gv	hv	
+v	Bv	uv	cv	kv	lv	ev	yv	
+v	Dv	av	vv	ev	nv	pv	ov	rv	tv	
+v	Dv	ev	cv	kv	ev	rv	
+v	Hv	av	rv	tv	
+v	Bv	rv	av	yv	
+v	Mv	uv	lv	lv	iv	nv	sv	
+v	Hv	av	mv	iv	lv	tv	ov	nv	
+v	Wv	av	lv	sv	hv	
+v	Bv	ev	av	nv	
+v	Pv	rv	ov	cv	tv	ov	rv	
+v	Cv	av	lv	hv	ov	uv	nv	
+v	Hv	ev	rv	mv	av	nv	
+v	Rv	ov	jv	av	sv	
+v	Dv	ov	rv	sv	ev	yv	
+v	Wv	ev	iv	sv	sv	
+v	Ev	sv	pv	iv	nv	ov	zv	av	
+v	Kv	ev	nv	nv	ev	dv	yv	
+v	Av	lv	vv	av	rv	av	dv	ov	
+v	Pv	ov	ov	lv	ev	
+v	Mv	cv	pv	hv	ev	rv	sv	ov	nv	
+v	Wv	ev	sv	tv	
+v	Cv	ov	rv	dv	ov	vv	av	
+v	Bv	rv	yv	av	nv	tv	
+v	Sv	tv	ov	kv	ev	sv	
+v	Mv	ov	nv	tv	ov	yv	av	
+v	Hv	iv	cv	kv	sv	
+v	Cv	hv	av	nv	ev	yv	
+v	Hv	av	rv	mv	ov	nv	
+v	Mv	ov	yv	ev	rv	
+v	Hv	uv	rv	lv	ev	yv	
+v	Ev	wv	iv	nv	gv	
+v	Tv	av	nv	nv	ev	rv	
+v	Sv	iv	mv	mv	ov	nv	sv	
+v	Cv	lv	av	rv	kv	ev	
+v	Bv	rv	ov	wv	nv	iv	nv	gv	
+v	Vv	ev	lv	ev	zv	
+v	Vv	av	rv	gv	av	sv	
+v	Hv	ov	bv	bv	sv	
+v	Mv	cv	cv	lv	uv	rv	ev	
+v	Rv	ov	bv	iv	nv	sv	ov	nv	
+v	Cv	uv	rv	rv	yv	
+v	Bv	av	xv	tv	ev	rv	
+v	Cv	ov	nv	tv	rv	ev	rv	av	sv	
+v	Hv	av	tv	fv	iv	ev	lv	dv	
+v	Nv	ev	wv	tv	ov	nv	
+v	Pv	ev	rv	kv	iv	nv	sv	
+v	Sv	av	nv	fv	ov	rv	dv	
+v	Bv	ev	av	sv	lv	ev	yv	
+v	Pv	av	rv	kv	
+v	Wv	ev	ev	kv	sv	
+v	Fv	av	rv	rv	ev	lv	lv	
+v	Mv	ev	rv	rv	iv	tv	tv	
+v	Lv	av	mv	bv	ev	rv	tv	
+v	Wv	hv	iv	tv	av	kv	ev	rv	
+v	Wv	ev	lv	lv	sv	
+v	Rv	ov	mv	ev	rv	ov	
+v	Hv	ov	ov	vv	ev	rv	
+v	Rv	av	sv	mv	uv	sv	sv	ev	nv	
+v	Pv	av	uv	lv	
+v	Pv	av	cv	hv	ev	cv	ov	
+v	Mv	cv	cv	lv	av	iv	nv	
+v	Vv	iv	lv	lv	av	rv	rv	ev	av	lv	
+v	Bv	ov	nv	iv	lv	lv	av	
+v	Lv	uv	nv	av	
+v	Hv	av	rv	dv	iv	nv	
+v	Hv	uv	gv	hv	ev	sv	
+v	Cv	hv	rv	iv	sv	tv	iv	av	nv	
+v	Mv	av	rv	sv	hv	
+v	Hv	ov	wv	av	rv	dv	
+v	Lv	ev	bv	lv	av	nv	cv	
+v	Cv	rv	ov	sv	sv	
+v	Lv	iv	nv	dv	sv	ev	yv	
+v	Hv	av	rv	tv	mv	av	nv	
+v	Mv	ev	yv	ev	rv	
+v	Rv	ov	dv	rv	iv	gv	uv	ev	zv	
+v	Pv	ov	tv	tv	ev	rv	
+v	Cv	av	sv	tv	iv	lv	lv	ov	
+v	Dv	av	nv	iv	ev	lv	sv	
+v	Sv	hv	av	wv	
+v	Mv	ov	rv	sv	ev	
+v	Cv	av	nv	tv	rv	ev	lv	lv	
+v	Sv	hv	ev	rv	mv	av	nv	
+v	Dv	iv	xv	ov	nv	
+v	Mv	cv	cv	ov	yv	
+v	Gv	av	mv	bv	lv	ev	
+v	Sv	av	mv	pv	sv	ov	nv	
+v	Cv	rv	ov	sv	bv	yv	
+v	Wv	ov	ov	dv	
+v	Mv	ev	nv	dv	ov	zv	av	
+v	Fv	rv	iv	ev	dv	mv	av	nv	
+v	Sv	cv	hv	nv	ev	iv	dv	ev	rv	
+v	Jv	av	rv	vv	iv	sv	
+v	Bv	ov	yv	lv	ev	
+v	Nv	iv	cv	hv	ov	lv	sv	
+v	Wv	ev	bv	sv	tv	ev	rv	
+v	Mv	av	tv	hv	ev	wv	sv	
+v	Bv	ev	nv	jv	av	mv	iv	nv	
+v	Lv	yv	ov	nv	sv	
+v	Mv	ov	nv	tv	ev	sv	
+v	Cv	av	rv	nv	ev	yv	
+v	Pv	av	lv	mv	ev	rv	
+v	Gv	rv	iv	mv	ev	sv	
+v	Dv	ov	mv	iv	nv	gv	uv	ev	zv	
+v	Kv	iv	dv	dv	
+v	Tv	uv	cv	kv	ev	rv	
+v	Gv	ov	rv	dv	ov	nv	
+v	Hv	av	yv	nv	ev	sv	
+v	Rv	yv	av	nv	
+v	Bv	av	rv	tv	ov	nv	
+v	Fv	rv	ev	yv	
+v	Sv	hv	ev	av	
+v	Hv	iv	nv	ev	sv	
+v	Pv	iv	tv	tv	mv	av	nv	
+v	Pv	av	rv	kv	sv	
+v	Rv	ov	sv	av	lv	ev	sv	
+v	Tv	av	yv	lv	ov	rv	
+v	Av	cv	ev	vv	ev	dv	ov	
+v	Wv	yv	av	tv	tv	
+v	Cv	av	mv	pv	ov	sv	
+v	Mv	av	hv	ov	nv	ev	yv	
+v	Kv	rv	av	mv	ev	rv	
+v	Lv	av	nv	ev	
+v	Mv	cv	cv	av	nv	nv	
+v	Gv	rv	ev	ev	rv	
+v	Mv	av	nv	nv	
+v	Hv	av	yv	dv	ev	nv	
+v	Cv	ov	bv	bv	
+v	Lv	av	nv	gv	
+v	Gv	av	lv	lv	ov	wv	av	yv	
+v	Bv	ev	nv	tv	ov	nv	
+v	Rv	av	nv	dv	av	lv	lv	
+v	Dv	uv	nv	cv	av	nv	
+v	Yv	ov	dv	ev	rv	
+v	Wv	iv	lv	kv	ev	rv	sv	ov	nv	
+v	Mv	cv	mv	av	hv	ov	nv	
+v	Rv	iv	vv	ev	rv	sv	
+v	Cv	hv	ev	rv	rv	yv	
+v	Hv	uv	nv	tv	
+v	Cv	av	sv	ev	
+v	Jv	ov	sv	ev	pv	hv	
+v	Lv	av	rv	sv	ev	nv	
+v	Av	cv	ov	sv	tv	av	
+v	Gv	rv	av	nv	tv	
+v	Bv	rv	av	dv	fv	ov	rv	dv	
+v	Wv	av	lv	kv	ev	rv	
+v	Pv	ov	lv	lv	av	rv	dv	
+v	Bv	ev	lv	lv	
+v	Wv	av	tv	ev	rv	sv	
+v	Wv	hv	iv	tv	ev	
+v	Gv	rv	iv	fv	fv	iv	tv	hv	
+v	Hv	av	rv	rv	iv	nv	gv	tv	ov	nv	
+v	Cv	ov	rv	tv	ev	zv	
+v	Rv	ov	sv	ev	
+v	Hv	av	nv	ev	yv	
+v	Rv	ov	av	cv	hv	
+v	Mv	ov	lv	iv	nv	av	
+v	Bv	lv	av	iv	rv	
+v	Hv	ov	ov	pv	ev	rv	
+v	Bv	av	rv	av	jv	av	sv	
+v	Gv	ov	uv	lv	dv	
+v	Bv	ev	nv	dv	ev	rv	
+v	Mv	cv	kv	nv	iv	gv	hv	tv	
+v	Wv	av	tv	kv	iv	nv	sv	
+v	Rv	iv	cv	hv	av	rv	dv	sv	
+v	Pv	ev	tv	tv	yv	
+v	Fv	rv	av	nv	kv	lv	iv	nv	
+v	Bv	av	iv	rv	dv	
+v	Fv	rv	iv	tv	zv	
+v	Mv	ev	lv	ev	nv	dv	ev	zv	
+v	Lv	uv	cv	av	sv	
+v	Rv	av	yv	mv	ov	nv	dv	
+v	Bv	av	lv	lv	
+v	Cv	ov	rv	tv	ev	zv	
+v	Lv	ov	wv	ev	rv	yv	
+v	Sv	ov	lv	ov	mv	ov	nv	
+v	Lv	iv	vv	iv	nv	gv	sv	tv	ov	nv	
+v	Nv	ov	vv	av	kv	
+v	Av	gv	uv	iv	rv	rv	ev	
+v	Sv	pv	ev	nv	cv	ev	
+v	Bv	av	lv	lv	
+v	Bv	av	rv	rv	
+v	Pv	ev	rv	ev	zv	
+v	Cv	hv	av	vv	ev	zv	
+v	Hv	iv	gv	gv	iv	nv	sv	
+v	Hv	av	yv	dv	ev	nv	
+v	Dv	rv	av	kv	ev	
+v	Nv	iv	cv	hv	ov	lv	sv	ov	nv	
+v	Hv	uv	gv	hv	ev	sv	
+v	Kv	ev	iv	tv	hv	
+v	Wv	ev	bv	sv	tv	ev	rv	
+v	Av	lv	iv	
+v	Wv	av	gv	nv	ev	rv	
+v	Jv	av	cv	kv	sv	ov	nv	
+v	Hv	ov	ov	vv	ev	rv	
+v	Hv	av	av	sv	
+v	Pv	ov	lv	lv	av	rv	dv	
+v	Cv	ov	xv	
+v	Kv	nv	av	pv	pv	
+v	Mv	uv	lv	lv	ev	nv	
+v	Pv	av	tv	rv	iv	cv	kv	
+v	Bv	ev	nv	iv	tv	ev	zv	
+v	Cv	av	nv	tv	uv	
+v	Mv	av	yv	
+v	Tv	av	yv	lv	ov	rv	
+v	Gv	ov	uv	lv	dv	
+v	Bv	ov	yv	lv	ev	
+v	Pv	ov	nv	cv	ev	
+v	Cv	lv	ev	mv	ev	nv	tv	sv	
+v	Mv	iv	lv	lv	ev	rv	
+v	Sv	hv	ev	pv	hv	ev	rv	dv	
+v	Gv	av	lv	lv	av	gv	hv	ev	rv	
+v	Rv	iv	cv	hv	av	rv	dv	
+v	Sv	hv	ov	rv	tv	
+v	Lv	ev	vv	iv	nv	ev	
+v	Gv	uv	ev	rv	rv	ev	rv	ov	
+v	Rv	ov	wv	ev	
+v	Vv	av	lv	ev	nv	cv	iv	av	
+v	Wv	hv	iv	tv	nv	ev	yv	
+v	Nv	ov	lv	av	nv	
+v	Bv	ev	nv	tv	ov	nv	
+v	Wv	hv	iv	tv	ev	
+v	Wv	ev	rv	nv	ev	rv	
+v	Pv	av	lv	mv	ev	rv	
+v	Cv	ov	wv	av	nv	
+v	Cv	rv	av	nv	ev	
+v	Bv	rv	iv	gv	hv	tv	
+v	Wv	av	lv	tv	ev	rv	sv	
+v	Mv	uv	rv	rv	av	yv	
+v	Gv	av	rv	zv	av	
+v	Av	yv	av	lv	av	
+v	Bv	uv	cv	hv	av	nv	av	nv	
+v	Bv	yv	rv	dv	
+v	Tv	ev	rv	rv	yv	
+v	Sv	iv	nv	gv	lv	ev	tv	ov	nv	
+v	Hv	av	rv	tv	mv	av	nv	
+v	Mv	uv	ev	lv	lv	ev	rv	
+v	Lv	yv	nv	nv	
+v	Lv	ov	vv	ev	
+v	Sv	uv	tv	tv	ov	nv	
+v	Av	lv	vv	av	rv	av	dv	ov	
+v	Bv	av	nv	kv	sv	
+v	Kv	ev	lv	lv	yv	
+v	Mv	cv	gv	ev	ev	
+v	Wv	ov	lv	fv	ev	
+v	Tv	ov	rv	rv	ev	sv	
+v	Sv	hv	ev	rv	mv	av	nv	
+v	Wv	av	rv	nv	ev	rv	
+v	Kv	rv	av	uv	sv	ev	
+v	Gv	ev	nv	tv	rv	yv	
+v	Rv	uv	sv	sv	ev	lv	lv	
+v	Sv	cv	hv	nv	ev	iv	dv	ev	rv	
+v	Bv	av	xv	tv	ev	rv	
+v	Sv	av	nv	cv	hv	ev	zv	
+v	Bv	ev	rv	gv	ev	rv	
+v	Cv	ov	nv	lv	ev	yv	
+v	Bv	uv	cv	kv	
+v	Mv	av	cv	kv	
+v	Kv	iv	rv	bv	yv	
+v	Pv	rv	iv	cv	ev	
+v	Sv	wv	av	nv	sv	ov	nv	
+v	Hv	iv	nv	ev	sv	
+v	Bv	ov	yv	dv	
+v	Yv	ov	rv	kv	
+v	Hv	ev	av	tv	hv	
+v	Mv	ev	yv	ev	rv	
+v	Fv	uv	ev	nv	tv	ev	sv	
+v	Dv	ov	mv	iv	nv	gv	uv	ev	zv	
+v	Bv	av	rv	rv	ov	nv	
+v	Ov	cv	hv	ov	av	
+v	Tv	av	tv	ev	
+v	Pv	ev	tv	ev	rv	sv	
+v	Bv	rv	yv	av	nv	
+v	Vv	iv	lv	lv	ev	gv	av	sv	
+v	Bv	ov	nv	iv	lv	lv	av	
+v	Sv	tv	ev	pv	hv	ev	nv	sv	ov	nv	
+v	Ov	lv	sv	ev	nv	
+v	Ev	nv	gv	lv	iv	sv	hv	
+v	Vv	av	sv	qv	uv	ev	zv	
+v	Bv	av	rv	rv	yv	
+v	Iv	bv	av	rv	rv	av	
+v	Fv	lv	ov	yv	dv	
+v	Dv	ev	lv	av	cv	rv	uv	zv	
+v	Av	rv	ev	lv	lv	av	nv	ov	
+v	Cv	iv	sv	nv	ev	rv	ov	sv	
+v	Wv	ov	ov	dv	
+v	Pv	ov	tv	tv	sv	
+v	Bv	ev	av	nv	
+v	Gv	lv	ev	nv	nv	
+v	Wv	iv	lv	sv	ov	nv	
+v	Wv	iv	gv	gv	iv	nv	sv	
+v	Kv	hv	av	nv	
+v	Rv	av	sv	mv	uv	sv	sv	ev	nv	
+v	Hv	ev	rv	rv	ev	rv	av	
+v	Mv	ov	rv	av	nv	
+v	Fv	iv	sv	hv	ev	rv	
+v	Gv	rv	iv	fv	fv	iv	nv	
+v	Mv	av	rv	kv	sv	
+v	Tv	ov	dv	dv	
+v	Mv	iv	dv	dv	lv	ev	tv	ov	nv	
+v	Tv	yv	lv	ev	rv	
+v	Hv	ov	fv	fv	mv	av	nv	
+v	Nv	ov	bv	lv	ev	
+v	Nv	ov	rv	tv	ov	nv	
+v	Vv	iv	lv	lv	av	
+v	Sv	nv	yv	dv	ev	rv	
+v	Fv	rv	ov	sv	tv	
+v	Kv	ev	yv	
+v	Mv	ov	nv	tv	ev	sv	
+v	Hv	iv	lv	lv	
+v	Hv	ev	rv	rv	iv	nv	gv	
+v	Sv	tv	rv	iv	cv	kv	lv	av	nv	dv	
+v	Kv	ev	rv	rv	
+v	Mv	ov	sv	ev	sv	
+v	Mv	iv	tv	cv	hv	ev	lv	lv	
+v	Hv	av	wv	kv	iv	nv	sv	
+v	Mv	cv	cv	lv	av	iv	nv	
+v	Pv	rv	iv	nv	cv	ev	
+v	Dv	ov	uv	gv	lv	av	sv	
+v	Cv	rv	uv	zv	
+v	Wv	hv	iv	tv	ev	hv	ev	av	dv	
+v	Bv	ev	rv	gv	
+v	Ov	nv	ev	av	lv	
+v	Bv	uv	sv	hv	
+v	Nv	ev	wv	tv	ov	nv	
+v	Mv	ev	dv	iv	nv	av	
+v	Hv	iv	cv	kv	mv	av	nv	
+v	Mv	ev	nv	dv	ev	zv	
+v	Bv	lv	av	iv	rv	
+v	Bv	av	rv	av	jv	av	sv	
+v	Gv	ov	ov	dv	
+v	Ev	sv	pv	iv	nv	ov	zv	av	
+v	Fv	iv	gv	uv	ev	rv	ov	av	
+v	Fv	iv	tv	zv	pv	av	tv	rv	iv	cv	kv	
+v	Lv	av	mv	bv	
+v	Hv	ev	sv	tv	ev	rv	
+v	Dv	iv	cv	kv	sv	ov	nv	
+v	Wv	iv	lv	lv	iv	av	mv	sv	
+v	Gv	iv	lv	mv	ov	rv	ev	
+v	Lv	uv	cv	av	sv	
+v	Pv	ov	tv	tv	ev	rv	
+v	Rv	ov	jv	av	sv	
+v	Ov	wv	ev	nv	
+v	Bv	lv	av	nv	kv	ev	nv	sv	hv	iv	pv	
+v	Hv	ev	nv	rv	yv	
+v	Fv	ev	rv	rv	ev	lv	lv	
+v	Hv	uv	dv	sv	ov	nv	
+v	Mv	uv	rv	iv	lv	lv	ov	
+v	Rv	iv	cv	hv	mv	ov	nv	dv	
+v	Bv	iv	sv	hv	ov	pv	
+v	Uv	nv	dv	ev	rv	wv	ov	ov	dv	
+v	Fv	ov	rv	dv	
+v	Mv	cv	cv	av	rv	tv	hv	yv	
+v	Tv	rv	uv	jv	iv	lv	lv	ov	
+v	Sv	hv	ev	pv	pv	av	rv	dv	
+v	Tv	hv	ov	mv	pv	sv	ov	nv	
+v	Cv	av	mv	ev	rv	ov	nv	
+v	Bv	lv	av	cv	kv	bv	uv	rv	nv	
+v	Dv	ov	dv	sv	ov	nv	
+v	Rv	ov	bv	ev	rv	tv	sv	
+v	Sv	tv	uv	av	rv	tv	
+v	Wv	av	lv	lv	sv	
+v	Cv	ov	nv	nv	ev	rv	
+v	Kv	ev	nv	tv	
+v	Dv	av	vv	iv	dv	
+v	Hv	uv	mv	pv	hv	rv	ev	yv	
+v	Mv	uv	lv	lv	iv	nv	sv	
+v	Mv	ov	sv	lv	ev	yv	
+v	Mv	av	lv	ov	nv	ev	
+v	Hv	av	nv	cv	ov	cv	kv	
+v	Vv	av	nv	cv	ev	
+v	Hv	ov	pv	kv	iv	nv	sv	
+v	Nv	av	sv	hv	
+v	Bv	ov	wv	ev	nv	
+v	Qv	uv	iv	nv	nv	
+v	Bv	ov	wv	mv	av	nv	
+v	Mv	cv	cv	av	rv	tv	yv	
+v	Cv	hv	rv	iv	sv	tv	iv	av	nv	
+v	Rv	ev	iv	dv	
+v	Tv	ov	wv	nv	sv	ev	nv	dv	
+v	Wv	ov	nv	gv	
+v	Ev	lv	lv	iv	sv	ov	nv	
+v	Lv	av	wv	sv	ov	nv	
+v	Bv	rv	ev	nv	nv	av	nv	
+v	Sv	iv	mv	mv	ov	nv	sv	
+v	Sv	av	nv	tv	iv	av	gv	ov	
+v	Jv	av	cv	ov	bv	sv	
+v	Sv	ov	lv	iv	sv	
+v	Cv	hv	av	pv	mv	av	nv	
+v	Bv	rv	av	dv	lv	ev	yv	
+v	Bv	uv	rv	kv	ev	
+v	Nv	uv	nv	ev	zv	
+v	Sv	ev	rv	rv	av	nv	ov	
+v	Rv	ov	yv	
+v	Hv	ev	rv	mv	av	nv	
+v	Yv	ov	dv	ev	rv	
+v	Av	gv	uv	iv	lv	av	rv	
+v	Jv	iv	mv	ev	nv	ev	zv	
+v	Av	rv	cv	hv	ev	rv	
+v	Wv	hv	iv	tv	av	kv	ev	rv	
+v	Hv	ov	wv	ev	lv	lv	
+v	Sv	cv	hv	mv	iv	tv	tv	
+v	Sv	av	nv	tv	av	nv	av	
+v	Cv	uv	mv	mv	iv	nv	gv	sv	
+v	Dv	av	nv	iv	ev	lv	sv	
+v	Mv	av	rv	sv	hv	
+v	Rv	ov	wv	lv	av	nv	dv	
+v	Mv	ev	zv	av	
+v	Rv	av	nv	dv	av	lv	lv	
+v	Mv	cv	kv	ev	ev	
+v	Av	cv	ov	sv	tv	av	
+v	Cv	ov	mv	bv	sv	
+v	Wv	iv	lv	kv	iv	nv	sv	
+v	Dv	uv	nv	nv	
+v	Mv	av	cv	dv	ov	nv	av	lv	dv	
+v	Mv	av	nv	nv	iv	nv	gv	
+v	Gv	rv	av	hv	av	mv	
+v	Nv	ev	lv	sv	ov	nv	
+v	Ev	vv	ev	rv	ev	tv	tv	
+v	Lv	av	mv	bv	ev	rv	tv	
+v	Wv	av	sv	hv	iv	nv	gv	tv	ov	nv	
+v	Bv	rv	av	nv	cv	hv	
+v	Dv	yv	ev	rv	

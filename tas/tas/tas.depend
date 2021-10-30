@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1576562200 source:c:\users\john\desktop\thisproj\tas\tas\jaro.c
+	"set.h"
+
+1576871088 c:\users\john\desktop\thisproj\tas\tas\set.h
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1576562482 source:c:\users\john\desktop\thisproj\tas\tas\levenshtein.c
+	"set.h"
+
+1576872855 source:c:\users\john\desktop\thisproj\tas\tas\main.c
+	"set.h"
+
+1576872698 source:c:\users\john\desktop\thisproj\tas\tas\set.c
+	"set.h"
+
+1576867160 source:c:\users\john\desktop\thisproj\tas\tas\soundex.c
+	"set.h"
+
+1576533400 source:d:\thisproj\tas\tas\jaro.c
+	"set.h"
+
+1576842290 d:\thisproj\tas\tas\set.h
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1576533682 source:d:\thisproj\tas\tas\levenshtein.c
+	"set.h"
+
+1576843900 source:d:\thisproj\tas\tas\set.c
+	"set.h"
+
+1576838362 source:d:\thisproj\tas\tas\soundex.c
+	"set.h"
+
+1576533400 source:c:\users\moham\desktop\last edition\tas\tas\jaro.c
+	"set.h"
+
+1577993064 c:\users\moham\desktop\last edition\tas\tas\set.h
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1576533682 source:c:\users\moham\desktop\last edition\tas\tas\levenshtein.c
+	"set.h"
+
+1577115654 source:c:\users\moham\desktop\last edition\tas\tas\main.c
+	"set.h"
+	<time.h>
+
+1576838362 source:c:\users\moham\desktop\last edition\tas\tas\soundex.c
+	"set.h"
+
+1577109961 source:c:\users\moham\desktop\last edition\tas\tas\set.c
+	"set.h"
+

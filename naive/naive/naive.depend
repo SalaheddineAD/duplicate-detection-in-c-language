@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1576627002 source:c:\users\john\desktop\thisproj\naive\naive\jaro.c
+	"set.h"
+
+1576883247 c:\users\john\desktop\thisproj\naive\naive\set.h
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1576626938 source:c:\users\john\desktop\thisproj\naive\naive\leven.c
+	"set.h"
+
+1576883247 source:c:\users\john\desktop\thisproj\naive\naive\main.c
+	"set.h"
+
+1576630560 source:c:\users\john\desktop\thisproj\naive\naive\soundex.c
+	"set.h"
+
+1576883382 source:c:\users\john\desktop\thisproj\naive\naive\set.c
+	"set.h"
+
+1576598202 source:c:\users\moham\desktop\last edition\naive\naive\jaro.c
+	"set.h"
+
+1577117200 c:\users\moham\desktop\last edition\naive\naive\set.h
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1576598138 source:c:\users\moham\desktop\last edition\naive\naive\leven.c
+	"set.h"
+
+1576601760 source:c:\users\moham\desktop\last edition\naive\naive\soundex.c
+	"set.h"
+
+1577117200 source:c:\users\moham\desktop\last edition\naive\naive\main.c
+	"set.h"
+	<time.h>
+

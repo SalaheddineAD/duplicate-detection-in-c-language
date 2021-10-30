@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1576598202 source:c:\users\moham\desktop\lakhar\tas\last_resort\jaro.c
+	"set.h"
+
+1577818273 c:\users\moham\desktop\lakhar\tas\last_resort\set.h
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1576598138 source:c:\users\moham\desktop\lakhar\tas\last_resort\leven.c
+	"set.h"
+
+1576598202 source:c:\users\moham\desktop\last edition\naive\last_resort\jaro.c
+	"set.h"
+
+1577969105 c:\users\moham\desktop\last edition\naive\last_resort\set.h
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1576598138 source:c:\users\moham\desktop\last edition\naive\last_resort\leven.c
+	"set.h"
+
+1577987628 source:c:\users\moham\desktop\last edition\naive\last_resort\set.c
+	"set.h"
+
+1577967133 source:c:\users\moham\desktop\last edition\naive\last_resort\main.c
+	"set.h"
+	<time.h>
+
+1577967078 source:c:\users\moham\desktop\last edition\naive\last_resort\soundex.c
+	"set.h"
+
+1577987522 source:c:\users\moham\desktop\last edition\naive\last_resort\ngram.c
+	<stdio.h>
+	<string.h>
+
